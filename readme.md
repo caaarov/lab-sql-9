@@ -9,9 +9,7 @@ The database is structured as follows:
 
 ### Instructions
 
-In this lab we will find the customers who were active in consecutive months of May and June. Follow the steps to complete the analysis.
 
-- Create a table `rentals_may` to store the data from rental table with information for the month of May.
 - Insert values in the table `rentals_may` using the table rental, filtering values only for the month of May.
 - Create a table `rentals_june` to store the data from rental table with information for the month of June.
 - Insert values in the table `rentals_june` using the table rental, filtering values only for the month of June.
